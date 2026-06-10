@@ -25,12 +25,4 @@ My collection of LeetCode solutions and DSA practice problems.
 * Graphs
 * Dynamic Programming
 
-## Progress
-
-### Day 1
-
-#1 Two Sum
-
----
-
 ⭐ Consistency > Perfection
