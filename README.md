@@ -29,7 +29,7 @@ My collection of LeetCode solutions and DSA practice problems.
 
 ### Day 1
 
-* #2 Add Two Numbers (Medium)
+#1 Two Sum
 
 ---
 
