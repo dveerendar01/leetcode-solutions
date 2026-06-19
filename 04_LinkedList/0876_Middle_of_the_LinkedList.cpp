@@ -1,0 +1,26 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+struct ListNode {
+    int value;
+    ListNode* next;
+
+    ListNode(int x) {
+        value = x;
+        next = NULL;
+    }
+};
+
+class Solution {
+public:
+    ListNode* middleNode(ListNode* head) {
+        ListNode* slow = head;
+        ListNode* fast = head;
+
+        while(fast != NULL && fast->next != NULL) {
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+        return slow;
+    }
+};
