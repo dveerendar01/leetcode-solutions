@@ -1,0 +1,38 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+struct ListNode {
+    int val;
+    ListNode* next;
+
+    ListNode(int x) {
+        val = x;
+        next = nullptr;
+    }
+};
+
+class Solution {
+public:
+    ListNode* partition(ListNode* head, int x) {
+        ListNode* smallDummy = new ListNode(0);
+        ListNode* largeDummy = new ListNode(0);
+
+        ListNode* small = smallDummy;
+        ListNode* large = largeDummy;
+
+        while(head != nullptr) {
+            if(head->val < x) {
+                small->next = head;
+                small = small->next;
+            } else {
+                large->next = head;
+                large = large->next;
+            }
+            head = head->next;
+        }
+        large->next = nullptr;
+        small->next = largeDummy->next;
+
+        return smallDummy->next;
+    }
+};
