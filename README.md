@@ -23,3 +23,5 @@ My collection of LeetCode solutions and DSA practice problems.
 * Two Pointers
 * Graphs
 * Dynamic Programming
+
+Consistancy > Perfection
