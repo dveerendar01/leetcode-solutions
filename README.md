@@ -9,7 +9,7 @@ My collection of LeetCode solutions and DSA practice problems.
 
 ## Topics
 
-* Arrays  | 18 |
+* Arrays  | 19 |
 * Strings  | 0 |
 * Hashing  | 7 |
 * Linked List  | 12 |
