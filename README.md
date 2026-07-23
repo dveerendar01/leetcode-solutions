@@ -23,4 +23,4 @@ My collection of LeetCode solutions and DSA practice problems.
 * Two Pointers  | 3 |
 * Graphs  | 0 |
 * Dynamic Programming  | 0 |
-* Sorting  | 1 |
+* Sorting  | 2 |
