@@ -4,13 +4,13 @@ My collection of LeetCode solutions and DSA practice problems.
 
 ## Stats
 
-* Problems Solved: 53
+* Problems Solved: 54
 * Language: C++
 
 ## Topics
 
 * Arrays  | 20 |
-* Strings  | 2 |
+* Strings  | 3 |
 * Hashing  | 7 |
 * Linked List  | 12 |
 * Stack  | 6 |
