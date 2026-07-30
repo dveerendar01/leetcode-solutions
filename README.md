@@ -4,7 +4,7 @@ My collection of LeetCode solutions and DSA practice problems.
 
 ## Stats
 
-* Problems Solved: 59
+* Problems Solved: 60
 * Language: C++
 
 ## Topics
