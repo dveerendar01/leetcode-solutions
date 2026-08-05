@@ -20,7 +20,7 @@ My collection of LeetCode solutions and DSA practice problems.
 * BST  | 0 |
 * Heaps  | 0 |
 * Sliding Window  | 0 |
-* Two Pointers  | 4 |
+* Two Pointers  | 5 |
 * Graphs  | 0 |
 * Dynamic Programming  | 0 |
 * Sorting  | 2 |
