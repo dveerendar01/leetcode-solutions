@@ -4,7 +4,7 @@ My collection of LeetCode solutions and DSA practice problems.
 
 ## Stats
 
-* Problems Solved: 68
+* Problems Solved: 69
 * Language: C++
 
 ## Topics
@@ -20,7 +20,7 @@ My collection of LeetCode solutions and DSA practice problems.
 * BST  | 0 |
 * Heaps  | 0 |
 * Sliding Window  | 0 |
-* Two Pointers  | 8 |
+* Two Pointers  | 9 |
 * Graphs  | 0 |
 * Dynamic Programming  | 0 |
 * Sorting  | 2 |
