@@ -4,12 +4,12 @@ My collection of LeetCode solutions and DSA practice problems.
 
 ## Stats
 
-* Problems Solved: 71
+* Problems Solved: 72
 * Language: C++
 
 ## Topics
 
-* Arrays  | 25 |
+* Arrays  | 26 |
 * Strings  | 8 |
 * Hashing  | 8 |
 * Linked List  | 12 |
