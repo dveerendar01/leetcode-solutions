@@ -12,3 +12,6 @@ bool isPalindrome(int x) {
     if(num == rev) return true;
     else return false;
 }
+
+// TC: O(log(n))
+// SC: O(1)
