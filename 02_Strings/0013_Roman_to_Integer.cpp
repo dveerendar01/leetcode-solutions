@@ -36,3 +36,6 @@ public:
         return ans;
     }
 };
+
+// TC: O(n) where n is the length of the string s
+// SC: O(1) since we are using constant space for variables and not using any extra data structures
