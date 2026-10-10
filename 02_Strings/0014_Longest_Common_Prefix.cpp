@@ -21,3 +21,6 @@ public:
         return prefix;
     }
 };
+
+// TC: O(N * M)
+// SC: O(1) auxiliary space
