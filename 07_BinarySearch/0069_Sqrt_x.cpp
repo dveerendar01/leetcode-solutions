@@ -20,3 +20,6 @@ public:
         return ans;
     }
 };
+
+// TC: O(log x)
+// SC: O(1)
