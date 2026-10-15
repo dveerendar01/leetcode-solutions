@@ -4,7 +4,7 @@ My collection of LeetCode solutions and DSA practice problems.
 
 ## Stats
 
-* Problems Solved: 77
+* Problems Solved: 78
 * Language: C++
 
 ## Topics
@@ -22,5 +22,5 @@ My collection of LeetCode solutions and DSA practice problems.
 * Sliding Window  | 0 |
 * Two Pointers  | 9 |
 * Graphs  | 0 |
-* Dynamic Programming  | 0 |
+* Dynamic Programming  | 1 |
 * Sorting  | 2 |
