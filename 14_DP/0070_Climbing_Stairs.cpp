@@ -17,3 +17,6 @@ public:
         return prev1;
     }
 };
+
+// TC: O(n)
+// SC: O(1)
