@@ -26,3 +26,6 @@ class Solution {
         return leftSame && rightSame;
     }
 };
+
+// TC: O(N)
+// SC: O(H) where H is the height of the tree
