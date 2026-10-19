@@ -4,7 +4,7 @@ My collection of LeetCode solutions and DSA practice problems.
 
 ## Stats
 
-* Problems Solved: 79
+* Problems Solved: 80
 * Language: C++
 
 ## Topics
@@ -16,7 +16,7 @@ My collection of LeetCode solutions and DSA practice problems.
 * Stack  | 6 |
 * Queue  | 1 |
 * Binary Search  | 1 |
-* Trees  | 1 |
+* Trees  | 2 |
 * BST  | 0 |
 * Heaps  | 0 |
 * Sliding Window  | 0 |
