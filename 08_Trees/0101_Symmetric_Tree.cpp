@@ -32,3 +32,6 @@ class Solution {
         return isMirror(root->left, root->right);
     }
 };
+
+// TC: O(N)
+// SC: O(H) where H is the height of the tree
