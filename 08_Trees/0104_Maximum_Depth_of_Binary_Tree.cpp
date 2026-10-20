@@ -24,3 +24,6 @@ public:
         return 1+max(leftDepth,rightDepth);
     }
 };
+
+// TC: O(N)
+// SC: O(H)
