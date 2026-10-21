@@ -35,3 +35,6 @@ public:
         return true;
     }
 };
+
+// TC: O(N), where n is the number of nodes in the tree. Each node is visited once.
+// SC: O(H), where H is the height of the tree
