@@ -4,7 +4,7 @@ My collection of LeetCode solutions and DSA practice problems.
 
 ## Stats
 
-* Problems Solved: 82
+* Problems Solved: 83
 * Language: C++
 
 ## Topics
@@ -12,7 +12,7 @@ My collection of LeetCode solutions and DSA practice problems.
 * Arrays  | 27 |
 * Strings  | 11 |
 * Hashing  | 8 |
-* Linked List  | 12 |
+* Linked List  | 13 |
 * Stack  | 6 |
 * Queue  | 1 |
 * Binary Search  | 1 |
