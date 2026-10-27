@@ -12,3 +12,6 @@ public:
         return cnt;
     }
 };
+
+// Time Complexity: O(K), where K is the number of set bits
+// Space Complexity: O(1)
