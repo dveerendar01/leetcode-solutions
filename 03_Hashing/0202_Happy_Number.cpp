@@ -21,3 +21,6 @@ public:
         return n == 1;
     }
 };
+
+// TC: O(log n) on average, but could be higher in the worst case
+// SC: O(log n) for the hash set
