@@ -9,3 +9,6 @@ public:
         return temp.find(s) != string::npos;
     }
 };
+
+// TC: O(n) 
+// SC: O(n) for concatenated string and temporary substring
