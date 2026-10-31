@@ -32,7 +32,7 @@ public:
         hasPrev = true;
         inorder(root->right);
     }
-    
+
     int getMinimumDifference(TreeNode* root) {
         ans = INT_MAX;
         prev = 0;
@@ -41,3 +41,6 @@ public:
         return ans;
     }
 };
+
+//TC: O(n), each node is visited exactly once
+//SC: O(h), recursive call stack, where h is the height of the BST.
