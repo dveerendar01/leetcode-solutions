@@ -26,3 +26,6 @@ public:
         return depth + 1;
     }
 };
+
+//TC: O(n)
+//SC: O(h), recursion stack
