@@ -28,3 +28,6 @@ public:
         return isSubtree(root->left, subRoot) || isSubtree(root->right, subRoot);
     }
 };
+
+// TC: O(n * m) worst case
+// SC: O(h1 + h2) for recursive stack usage, where h1 and h2 are the respective tree heights
