@@ -21,3 +21,6 @@ public:
         return hash[key];
     }
 };
+
+// Time Complexity: O(1) per add(), remove(), and contains() operation.
+// Space Complexity: O(10^6), because you allocate a Boolean vector of 1,000,001 elements.
