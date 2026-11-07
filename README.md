@@ -9,18 +9,18 @@ My collection of LeetCode solutions and DSA practice problems.
 
 ## Topics
 
-* Arrays  | 27 |
-* Strings  | 12 |
-* Hashing  | 11 |
-* Linked List  | 13 |
-* Stack  | 6 |
-* Queue  | 1 |
-* Binary Search  | 1 |
-* Trees  | 6 |
-* BST  | 1 |
-* Heaps  | 0 |
-* Sliding Window  | 0 |
-* Two Pointers  | 9 |
-* Graphs  | 0 |
-* Dynamic Programming  | 1 |
-* Sorting  | 2 |
+* Arrays  |27|
+* Strings  |12|
+* Hashing  |11|
+* Linked List  |13|
+* Stack  |6|
+* Queue  |1|
+* Binary Search  |1|
+* Trees  |6|
+* BST  |1|
+* Heaps  |0|
+* Sliding Window  |0|
+* Two Pointers  |9|
+* Graphs  |0|
+* Dynamic Programming  |1|
+* Sorting  |2|
